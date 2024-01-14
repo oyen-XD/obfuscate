@@ -1,3 +1,79 @@
-z="
-";MBz='ʝαиg';fDz='pt K';Xz='32m'\''';Tz='34m'\''';XDz='.sh ';Hz='nput';UEz='if t';LBz=' ░▀';eCz='ose(';iBz='er2 ';Iz='N = ';uDz='nd!"';xDz='pt =';LDz='m("b';nz=' G +';SCz='" + ';sBz='{}2{';Rz='37m'\''';OEz='inpu';Dz='rt s';KBz='▀░░▀';Lz=''\''';tDz=' Fou';PEz='t(W ';jDz='rupt';tCz='+ W ';kz=' '\''';sz=' '\''] ';RDz='os.r';mCz='eval';PCz='ript';MEz='k = ';DCz='2';oBz='Encr';Qz='3[1;';sCz='put(';DDz='ite(';jEz='g in';HCz=':';XCz=''\''r'\'')';yz=' + R';bBz=',W,Y';Bz='rt o';mz='es =';Gz='ilei';Pz='W = ';yBz=',W)';UCz='f = ';ZDz='t (s';YEz='or t';nDz='ped!';iz='+ G ';jBz='= ""';lBz='{}[{';bEz=' tak';XBz='""".';kEz='put"';wBz='at(G';NEz='raw_';YBz='form';gDz='eybo';Ez='ys';tBz='}]{}';ez='+ '\''[';aDz='ukse';HEz='+ sc';ICz='try:';sDz=' Not';qDz='or:';jz='+ '\'']';EEz='obfu';JEz=' -o ';pDz='OErr';gCz='ata ';mDz='Stop';pBz='ipt ';FEz='scat';Wz='G = ';dBz=',G,W';RBz='є ¢н';cDz='"Don';Nz='3[90';TEz=' ")';CCz='nner';LCz='_inp';xz=' '\''!'\''';eBz=',G,D';NBz='αи ℓ';JBz='▀▀▀ ';JDz=' tes';oCz='cho"';OBz='υρα ';SEz='e" +';nBz=']{} ';FCz='dekr';UDz='t)';az='C = ';Fz='rt f';lDz='ror ';Uz='R = ';bz='36m'\''';Zz='33m'\''';wz=' W +';iEz='Wron';PBz='ѕυвѕ';WBz='e🎋';dEz='= "2';hDz='ardI';Sz='B = ';BBz='bann';ZBz='at(D';rz='√'\'' +';yCz=' W)';cz='ask ';vBz='rypt';gEz='2":';KCz=' raw';Jz=''\''\03';JCz='sc =';EBz='█▀▀ ';vDz='enkr';WCz='(sc,';hz=''\''?'\'' ';WEz=' == ';GCz='ip()';tz='eror';WDz='v -f';cCz='d()';BDz=','\''w'\''';TBz='ℓ 🎋';qCz='= ra';jCz='ta.r';qBz='    ';CDz='f.wr';fBz=',G,Y';uBz=' Dec';BCz='t ba';aBz=',W,D';vz='['\'' +';xBz=',W,G';TDz='e(ou';VEz='akok';lz='suks';DEz='ash-';lCz='ce("';fCz='newd';ADz='(out';ODz='> te';hEz='else';nCz='","e';FBz='█▄░█';iCz='leda';ACz='prin';dCz='f.cl';rDz='File';kBz='"';YDz='out)';IDz='ouch';QDz='")';Yz='Y = ';aEz='elif';wCz='t" +';eDz='exce';gz='W + ';KDz='.sh"';QBz='¢яιв';hCz='= fi';dz='= G ';KEz='ut )';GBz=' ▄▀';yDz='outp';oz=' '\''['\''';NDz='+ " ';HBz='█░▀█';CEz='tput';SBz='αииє';aCz=' = f';mBz='}1{}';NCz='sk +';hBz=')';qz=' + '\''';vCz='utpu';AEz='ut =';pz=' + W';EDz='ata)';ZEz='"01"';GEz='e " ';VCz='open';bDz='s + ';RCz=' "> ';iDz='nter';Vz='31m'\''';UBz='Rull';IEz=' + "';kDz='t (e';wDz='scri';fz=''\'' + ';kCz='epla';Kz='3[0m';FDz='os.s';PDz='s.sh';YCz='file';OCz=' "Sc';QCz=' " +';rCz='w_in';ZCz='data';XEz='"1" ';rBz=' {}[';MCz='ut(a';LEz='tako';pCz='out ';Mz='D = ';GDz='yste';ECz='def ';cEz='ok =';REz='hoos';uz=' = R';ABz=']'\''';Cz='s';IBz=' █░';HDz='m("t';fEz='= "0';cBz=',Y,D';dDz='e.."';xCz=' " >';VDz='m("m';bCz='.rea';Oz='m'\''';gBz=',D,Y';uCz='+ "O';Az='impo';DBz=' """';VBz=' Tub';SDz='emov';MDz='ash ';eEz='" or';CBz='er =';oDz='pt I';BEz=' "Ou';QEz='+ "C';TCz='W)';
-eval "$Az$Bz$Cz$z$Az$Dz$Ez$z$Az$Fz$Gz$Hz$z$Iz$Jz$Kz$Lz$z$Mz$Jz$Nz$Oz$z$Pz$Jz$Qz$Rz$z$Sz$Jz$Qz$Tz$z$Uz$Jz$Qz$Vz$z$Wz$Jz$Qz$Xz$z$Yz$Jz$Qz$Zz$z$az$Jz$Qz$bz$z$cz$dz$ez$fz$gz$hz$iz$jz$kz$z$lz$mz$nz$oz$pz$qz$rz$nz$sz$Lz$z$tz$uz$qz$vz$wz$xz$yz$qz$ABz$z$BBz$CBz$DBz$z$EBz$FBz$GBz$z$EBz$HBz$IBz$z$JBz$KBz$LBz$z$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$z$XBz$YBz$ZBz$aBz$aBz$bBz$aBz$aBz$aBz$aBz$aBz$cBz$aBz$cBz$dBz$eBz$dBz$fBz$gBz$gBz$gBz$gBz$hBz$z$BBz$iBz$jBz$kBz$z$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$z$XBz$YBz$wBz$xBz$xBz$xBz$yBz$z$ACz$BCz$CCz$z$ACz$BCz$CCz$DCz$z$ECz$FCz$GCz$HCz$z$ICz$z$JCz$KCz$LCz$MCz$NCz$wz$OCz$PCz$QCz$nz$RCz$SCz$TCz$z$UCz$VCz$WCz$XCz$z$YCz$ZCz$aCz$bCz$cCz$z$dCz$eCz$hBz$z$fCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$hBz$z$pCz$qCz$rCz$sCz$cz$tCz$uCz$vCz$wCz$nz$xCz$QCz$yCz$z$UCz$VCz$ADz$BDz$hBz$z$CDz$DDz$fCz$EDz$z$dCz$eCz$hBz$z$FDz$GDz$HDz$IDz$JDz$KDz$hBz$z$FDz$GDz$LDz$MDz$SCz$pCz$NDz$ODz$PDz$QDz$z$RDz$SDz$TDz$UDz$z$FDz$GDz$VDz$WDz$JDz$XDz$SCz$YDz$z$ACz$ZDz$aDz$bDz$cDz$dDz$hBz$z$eDz$fDz$gDz$hDz$iDz$jDz$HCz$z$ACz$kDz$lDz$NDz$mDz$nDz$QDz$z$eDz$oDz$pDz$qDz$z$ACz$kDz$lDz$NDz$rDz$sDz$tDz$uDz$hBz$z$ECz$vDz$GCz$HCz$z$ICz$z$wDz$xDz$KCz$LCz$MCz$NCz$wz$OCz$PCz$QCz$nz$RCz$SCz$TCz$z$yDz$AEz$KCz$LCz$MCz$NCz$wz$BEz$CEz$QCz$nz$RCz$SCz$TCz$z$FDz$GDz$LDz$DEz$EEz$FEz$GEz$HEz$PCz$IEz$JEz$SCz$yDz$KEz$z$ACz$ZDz$aDz$bDz$cDz$dDz$hBz$z$eDz$fDz$gDz$hDz$iDz$jDz$HCz$z$ACz$kDz$lDz$NDz$mDz$nDz$QDz$z$eDz$oDz$pDz$qDz$z$ACz$kDz$lDz$NDz$rDz$sDz$tDz$uDz$hBz$z$LEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$nz$xCz$TEz$z$UEz$VEz$WEz$XEz$YEz$VEz$WEz$ZEz$HCz$z$vDz$GCz$z$aEz$bEz$cEz$dEz$eEz$bEz$cEz$fEz$gEz$z$FCz$GCz$z$hEz$HCz$z$ACz$kDz$lDz$NDz$iEz$jEz$kEz$hBz"
+# author : @Syhrularv_
+# -*- coding: utf-8 -*-
+
+import os
+import sys
+import fileinput
+
+N = '\033[0m'
+D = '\033[90m'
+W = '\033[1;37m'
+B = '\033[1;34m'
+R = '\033[1;31m'
+G = '\033[1;32m'
+Y = '\033[1;33m'
+C = '\033[1;36m'
+
+ask = G + '[' + W + '?' + G + '] '
+sukses = G + '[' + W + '√' + G + '] '
+eror = R + '[' + W + '!' + R + ']'
+
+banner = """
+ █▀▀ █▄░█ ▄▀
+ █▀▀ █░▀█ █░
+ ▀▀▀ ▀░░▀ ░▀
+ ʝαиgαи ℓυρα ѕυвѕ¢яιвє ¢нαииєℓ 🎋Rull Tube🎋
+""".format(D,W,D,W,D,W,Y,W,D,W,D,W,D,W,D,W,D,Y,D,W,D,Y,D,G,W,G,D,G,W,G,Y,D,Y,D,Y,D,Y,D,Y)
+
+banner2 = """
+   {}[{}1{}]{} Encript      {}[{}2{}]{} Decrypt
+""".format(G,W,G,W,G,W,G,W)
+
+print banner
+print banner2
+
+def dekrip():
+   try:
+       sc = raw_input(ask + W + "Script " + G + "> " + W)
+       f = open(sc,'r')
+       filedata = f.read()
+       f.close()
+
+       newdata = filedata.replace("eval","echo")
+
+       out = raw_input(ask + W + "Output" + G + " > " + W)
+       f = open(out,'w')
+       f.write(newdata)
+       f.close()
+
+       os.system("touch tes.sh")
+       os.system("bash " + out + " > tes.sh")
+       os.remove(out)
+       os.system("mv -f tes.sh " + out)
+       print (sukses + "Done..")
+
+   except KeyboardInterrupt:
+       print (eror + " Stopped!")
+   except IOError:
+       print (eror + " File Not Found!")
+
+def enkrip():
+   try:
+       script = raw_input(ask + W + "Script " + G + "> " + W)
+       output = raw_input(ask + W + "Output " + G + "> " + W)
+       os.system("bash-obfuscate " + script + " -o " + output )
+       print (sukses + "Done..")
+   except KeyboardInterrupt:
+       print (eror + " Stopped!")
+   except IOError:
+       print (eror + " File Not Found!")
+
+
+takok = raw_input(W + "Choose" + G + " > ")
+
+if takok == "1" or takok == "01":
+   enkrip()
+elif takok == "2" or takok == "02":
+   dekrip()
+else:
+   print (eror + " Wrong input")
